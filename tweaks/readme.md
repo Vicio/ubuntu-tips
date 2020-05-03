@@ -63,13 +63,13 @@ And there you have it, no more configuration needed.
 
 Most ubuntu based OSes, specially those based on gnome, rely on a background process called tracker.
 
-Although helpful in some ocassions, for most users, including power users, since it scraps every nook and cranny of your system, it makes it slow, annoying the user. 
+Although helpful in some ocassions, for most users, including power users, since it scraps every nook and cranny of your system, it makes it slow, annoying the user.
 
 Creates an index for easy access the next time you want to search something in Gnome's menu or in file managers.
 
 Being a little sincere, unindexed file search is not that slow, and normally a user knows where their stuff is located, so this background process becomes nothing more than a nuisance due to its high CPU, HDD and memory usage.
 
-### Disabling
+### Disabling it
 
 So, what should we do in case we don't want this app?
 
