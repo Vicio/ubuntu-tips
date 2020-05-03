@@ -70,7 +70,7 @@ It allows you to take control of your PC using your smartphone as a mouse and ke
 Since it is optimized for KDE desktop environment, it does not come included in Ubuntu and some of ist flavors by default, as always, you can check it by searching it:
 
 ```bash
-apt search kdeconnet
+apt search kdeconnect
 ```
 
 You should get this response:
