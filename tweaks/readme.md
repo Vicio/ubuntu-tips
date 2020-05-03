@@ -1,7 +1,5 @@
 # Tweaks
 
---------
-
 All ubuntu based OSes are by far the most simple of them all for a common user, however, simplicity in the front means complexity in the back. So when there is a specific need for a user, or needs more than just the plain install and a set of common apps, then it takes a turn for the worse.
 
 Said that, here are a couple of helpful tweaks to increase system stability and performance.
