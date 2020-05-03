@@ -14,7 +14,7 @@ Systemd immediately rejects wine applications to connect with this method as it 
 
 So, how do we pass this issue?
 
-I'd like to say it's easy, but it took me almost a week to figure out by searching everywhere and figuring out the whole issue, until I found a solution provided by [this guy](www.reddit.com/r/linux_gaming/comments/gc5qss/wine_and_ping_support_on_ubuntu_a_guide/).
+I'd like to say it's easy, but it took me almost a week to figure out by searching everywhere and figuring out the whole issue, until I found a solution provided by [this guy](https://www.reddit.com/r/linux_gaming/comments/gc5qss/wine_and_ping_support_on_ubuntu_a_guide/).
 
 So, how do we start?
 

@@ -6,7 +6,7 @@ Said that, here are a couple of helpful tweaks to increase system stability and 
 
 ## TLP
 
-From the [creator's  website](linrunner.de/tlp/):
+From the [creator's  website](https://linrunner.de/tlp/):
 
 > _"TLP is a feature-rich command line utility for Linux, saving laptop battery power without the need to delve deeper into technical details._
 > _TLP’s default settings are already optimized for battery life and implement Powertop’s recommendations out of the box. So you may just install and forget it._
@@ -47,7 +47,7 @@ TLP requires some dependencies which are already included in most OSes, and upda
 
 ## Preload
 
-[preload](sourceforge.net/projects/preload/) is an adaptive readahead daemon. It monitors applications that users run, and by analyzing this data, predicts what applications users might run, and fetches those binaries and their dependencies into memory for faster startup times.
+[preload](https://sourceforge.net/projects/preload/) is an adaptive readahead daemon. It monitors applications that users run, and by analyzing this data, predicts what applications users might run, and fetches those binaries and their dependencies into memory for faster startup times.
 
 This tool basically works like windows superfetch, and makes a comparable speedy startup of applications, this is specialle helpful if you open lots of them and want its libraries loaded during system startup so that they open quicly when you want to use them.
 
