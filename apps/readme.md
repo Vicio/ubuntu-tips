@@ -90,7 +90,7 @@ Now just update the repositories and install:
 
 ```bash
 sudo apt update
-sudo apt install kdeconnet indicator-kdeconnect -y
+sudo apt install kdeconnect indicator-kdeconnect -y
 ```
 
 You also need to intall this application in your phone, and then pair it with your computer. It is important to mention that this is an only android app, so iPhone users will need to look for an alternative :/.
